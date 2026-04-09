@@ -1,15 +1,19 @@
-/* ===== Background — multi-layer on html+body covers all pages at all sizes ===== */
-html,
-body,
-body.list {
+/* ===== Background — fixed pseudo-element works on iOS Safari too ===== */
+body {
+    background-color: #fff;
+}
+
+body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
     background-image:
         linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)),
         url('/Langdell-autumn.jpg');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: #fff;
 }
 
 /* Keep site header readable and sticky */
