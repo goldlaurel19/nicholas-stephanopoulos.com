@@ -44,9 +44,9 @@ body.list {
     width: 100%;
 }
 
-/* Right-justify the subtitle/bio text */
+/* Justify the subtitle/bio text */
 .profile .profile_inner > *:not(h1):not(img) {
-    text-align: right;
+    text-align: justify;
     width: 100%;
 }
 
