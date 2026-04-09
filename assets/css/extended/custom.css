@@ -1,0 +1,136 @@
+/* ===== Background — multi-layer on body covers all pages ===== */
+body,
+body.list {
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)),
+        url('/Langdell-autumn.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #fff;
+}
+
+/* Keep site header readable and sticky */
+.header {
+    background: rgba(245, 245, 245, 0.94) !important;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+/* ===== Profile photo — rectangular, not circular, not distorted ===== */
+.profile img {
+    border-radius: 6px;
+    object-fit: cover;
+    object-position: center top;
+}
+
+/* ===== Profile layout — centered photo/name, right-justified text ===== */
+.main .profile {
+    font-size: 17px;
+    line-height: 1.6;
+    padding: 40px var(--gap);
+}
+
+.profile .profile_inner {
+    gap: 16px;
+    align-items: center;
+}
+
+.profile .profile_inner h1 {
+    font-size: 2.8rem;
+    text-align: center;
+    width: 100%;
+}
+
+/* Right-justify the subtitle/bio text */
+.profile .profile_inner > *:not(h1):not(img) {
+    text-align: right;
+    width: 100%;
+}
+
+/* Center the social icons row */
+.profile .social-icons {
+    justify-content: center;
+}
+
+/* ===== Buttons: single row, evenly spaced, full width ===== */
+.buttons {
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    gap: 6px;
+}
+
+.button {
+    flex: 1 1 0;
+    text-align: center;
+    margin: 6px 0;
+    padding: 11px 8px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+/* ===== Social icons: spread evenly to match text width ===== */
+.social-icons {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    gap: 0;
+}
+
+.social-icons a {
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+/* ===== General content sizing ===== */
+.post-content,
+.post-content p,
+.single-content {
+    font-size: 17px;
+    line-height: 1.7;
+    color: #111;
+    font-weight: 450;
+}
+
+/* ===== Projects page ===== */
+.project-entry {
+    margin-bottom: 3rem;
+}
+
+.project-map {
+    margin-top: 1.2rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+}
+
+.project-logo {
+    max-height: 60px;
+    max-width: 220px;
+    width: auto;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+/* ===== Teaching page headings ===== */
+.post-content h2 {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+}
+
+/* ===== Popular press list ===== */
+.post-content ul {
+    padding-left: 1.2em;
+}
+
+.post-content li {
+    margin-bottom: 0.7rem;
+    font-size: 16px;
+    line-height: 1.55;
+}

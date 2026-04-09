@@ -1,0 +1,112 @@
+baseURL: "https://nicholasstephanopoulos.com/"
+title: Nicholas Stephanopoulos
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Books
+          url: books/
+          weight: 1
+        - name: Journal Articles
+          url: articles/journal-articles/
+          weight: 2
+        - name: Shorter Works
+          url: articles/shorter-works/
+          weight: 3
+        - name: Popular Press
+          url: popular-press/
+          weight: 4
+        - name: Projects
+          url: projects/
+          weight: 5
+        - name: Teaching
+          url: teaching/
+          weight: 6
+
+params:
+    description: "Academic website of Nicholas Stephanopoulos, Kirkland & Ellis Professor of Law at Harvard Law School."
+    author: Nicholas Stephanopoulos
+    DateFormat: "2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: false
+    ShowAllPagesInArchive: false
+    MainSections: ["books","articles/journal-articles","articles/shorter-works","teaching"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: false
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: false
+    profileMode:
+          enabled: true
+          title: Nicholas Stephanopoulos
+          subtitle: "I'm the Kirkland & Ellis Professor of Law at Harvard Law School, where I also serve as Director of Strategy of the Election Law Clinic. My research focuses on the intersection of democratic theory, empirical political science, and the American electoral system."
+          imageUrl: "picture.jpeg"
+          imageWidth: 180
+          imageHeight: 225
+          buttons:
+            - name: Books
+              url: books/
+            - name: Journal Articles
+              url: articles/journal-articles/
+            - name: Shorter Works
+              url: articles/shorter-works/
+            - name: Popular Press
+              url: popular-press/
+            - name: Projects
+              url: projects/
+            - name: Teaching
+              url: teaching/
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:nstephanopoulos@law.harvard.edu  # confirmed from CV
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=NnGsMr4AAAAJ&hl=en
+        - name: SSRN
+          url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=636048
+        - name: Twitter
+          url: https://x.com/ProfNickStephan
+        - name: Bluesky
+          url: https://bsky.app/profile/profnickstephan.bsky.social
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Nicholas Stephanopoulos"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

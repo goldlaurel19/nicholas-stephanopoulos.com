@@ -1,0 +1,24 @@
+---
+title: "Teaching (2025–2026)"
+description: "Courses taught by Nicholas Stephanopoulos at Harvard Law School."
+layout: single
+hidemeta: true
+---
+
+---
+
+## [Election Law](https://hls.harvard.edu/courses/election-law-4/)
+
+This course examines the law, both constitutional and statutory, that governs the American electoral system. Topics include the right to vote, reapportionment and redistricting, minority representation, the regulation of political parties, and campaign finance. The course draws heavily from both legal and political science scholarship and addresses constitutional provisions including the First, Fourteenth, and Fifteenth Amendments, as well as key statutes such as the Voting Rights Act, the Federal Election Campaign Act, and the Bipartisan Campaign Reform Act. Students will develop an understanding of not only election law doctrine, but also the theoretical and functional underpinnings of the American electoral system.
+
+---
+
+## [Law and Politics Workshop](https://hls.harvard.edu/courses/law-and-politics-workshop/)
+
+This workshop examines scholarly work on law and politics through visiting speakers from law schools and political science departments. Participants engage with recent and forthcoming papers on election law and/or American politics, preparing by reading related foundational work before each speaker's presentation. Students may complete either multiple response papers or a single research paper (20–25 pages minimum). The research paper option can fulfill the analytical paper requirement for J.D. candidates, with opportunities for faculty and peer feedback on drafts.
+
+---
+
+## [Writing Group: Issues in Public Law](https://hls.harvard.edu/courses/writing-group-issues-in-public-law/)
+
+This writing group provides structured guidance for developing a substantial research paper in public law fields. Students complete a research paper of 20–25 pages (for 1 credit) or 50+ pages (for 2 credits), with faculty and peer feedback on substantially complete drafts. The paper can satisfy the analytical paper requirement for J.D. students. Topics span constitutional law, administrative and regulatory law, civil rights and race-related legal issues, election law and democratic governance, and state and local governmental structures.
