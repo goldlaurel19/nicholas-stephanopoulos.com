@@ -126,11 +126,6 @@ body.list {
 
 /* ===== Mobile responsiveness ===== */
 @media (max-width: 768px) {
-    /* Fix background on iOS Safari (fixed attachment causes zoom effect) */
-    body, body.list {
-        background-attachment: scroll;
-    }
-
     /* Scale down profile heading */
     .profile .profile_inner h1 {
         font-size: 2rem;
