@@ -124,6 +124,35 @@ body.list {
     font-size: 1.3rem;
 }
 
+/* ===== Mobile responsiveness ===== */
+@media (max-width: 768px) {
+    /* Fix background on iOS Safari (fixed attachment causes zoom effect) */
+    body, body.list {
+        background-attachment: scroll;
+    }
+
+    /* Scale down profile heading */
+    .profile .profile_inner h1 {
+        font-size: 2rem;
+    }
+
+    /* Allow buttons to wrap on small screens */
+    .buttons {
+        flex-wrap: wrap;
+    }
+
+    /* Slightly smaller body text on mobile */
+    .post-content,
+    .post-content p,
+    .single-content {
+        font-size: 15px;
+    }
+
+    .post-content li {
+        font-size: 14px;
+    }
+}
+
 /* ===== Popular press list ===== */
 .post-content ul {
     padding-left: 1.2em;
