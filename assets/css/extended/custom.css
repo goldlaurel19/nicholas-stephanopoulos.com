@@ -1,4 +1,5 @@
-/* ===== Background — multi-layer on body covers all pages ===== */
+/* ===== Background — multi-layer on html+body covers all pages at all sizes ===== */
+html,
 body,
 body.list {
     background-image:
