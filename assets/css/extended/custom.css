@@ -55,9 +55,9 @@ body::before {
     width: 100%;
 }
 
-/* Center the social icons row */
+/* Space social icons evenly across full width */
 .profile .social-icons {
-    justify-content: center;
+    justify-content: space-between;
 }
 
 /* ===== Buttons: rendered as plain bold hyperlinks ===== */
