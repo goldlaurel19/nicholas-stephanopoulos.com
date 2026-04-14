@@ -75,6 +75,7 @@ body::before {
     padding: 11px 8px;
     font-size: 14px;
     white-space: nowrap;
+    background: rgb(180, 180, 180) !important;
 }
 
 /* ===== Social icons: spread evenly to match text width ===== */
