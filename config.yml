@@ -49,6 +49,7 @@ params:
     TocOpen: false
     ShowWordCount: false
     UseHugoToc: true
+    googleAnalyticsID: "G-D6VSW6NKNE"
     comments: false
     math: false
     profileMode:
