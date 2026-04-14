@@ -60,22 +60,33 @@ body::before {
     justify-content: center;
 }
 
-/* ===== Buttons: single row, evenly spaced, full width ===== */
+/* ===== Buttons: rendered as plain bold hyperlinks ===== */
 .buttons {
     width: 100%;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px 20px;
 }
 
 .button {
-    flex: 1 1 0;
-    text-align: center;
-    margin: 6px 0;
-    padding: 11px 8px;
-    font-size: 14px;
+    background: none !important;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 4px 0;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 650;
+    color: #222 !important;
     white-space: nowrap;
-    background: rgb(180, 180, 180) !important;
+}
+
+.button:hover {
+    background: none !important;
+    text-decoration: underline;
+}
+
+.button-inner {
+    padding: 0;
 }
 
 /* ===== Social icons: spread evenly to match text width ===== */
