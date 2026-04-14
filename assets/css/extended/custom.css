@@ -41,7 +41,14 @@ body::before {
 .profile .profile_inner {
     gap: 16px;
     align-items: center;
+    flex-direction: column;
 }
+
+.profile .profile_inner img  { order: 1; }
+.profile .profile_inner h1   { order: 2; }
+.profile .social-icons       { order: 3; }
+.profile .profile_inner span { order: 4; }
+.profile .buttons            { order: 5; }
 
 .profile .profile_inner h1 {
     font-size: 2.8rem;
