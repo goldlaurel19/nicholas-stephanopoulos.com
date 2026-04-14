@@ -39,7 +39,7 @@ body::before {
 }
 
 .profile .profile_inner {
-    gap: 16px;
+    gap: 24px;
     align-items: center;
     flex-direction: column;
 }
