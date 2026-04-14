@@ -57,7 +57,7 @@ params:
           title: Nicholas Stephanopoulos
           subtitle: "I'm the Kirkland & Ellis Professor of Law at Harvard Law School, where I also serve as Director of Strategy of the Election Law Clinic. My research focuses on the intersection of democratic theory, empirical political science, and the American electoral system. In my recent book, <em>Aligning Election Law</em>, I argue that alignment between public policy and public opinion should be an overarching value for election law and regulation."
           imageUrl: "picture.jpeg"
-          imageWidth: 200
+          imageWidth: 181
           imageHeight: 250
           buttons:
             - name: Books
