@@ -155,9 +155,11 @@ body::before {
         font-size: 2rem;
     }
 
-    /* Allow buttons to wrap on small screens */
+    /* Allow buttons to wrap on small screens, centered so both rows look balanced */
     .buttons {
         flex-wrap: wrap;
+        justify-content: center;
+        gap: 2px 16px;
     }
 
     /* Slightly smaller body text on mobile */
