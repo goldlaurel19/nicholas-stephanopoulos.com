@@ -13,7 +13,9 @@ hidemeta: true
 
 ### Districting and Competition
 
-*Districting and Competition*, 174 U. Pa. L. Rev. (forthcoming 2026) (with Richard H. Pildes)
+*Districting and Competition*, 175 U. Pa. L. Rev. (forthcoming 2026) (with Richard H. Pildes) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6795960)
+
+Over roughly the last decade, courts and scholars have seemingly lost interest in competitive districts, focusing instead on the problem of partisan gerrymandering. This shift in attention is unfortunate given the startlingly low level of competition of Congress and many state legislatures today. In this essay, we use the tool that has recently taken the redistricting world by storm — the algorithmic generation of large numbers of district maps — to study district competition at scale. Our main finding is that substantially more competitive congressional districts would exist if mapmakers did not aim to suppress competition. If mapmakers actually prioritized competition, subject to other constraints, the number of competitive congressional districts nationwide would approximately double. Analysis of this kind could be deployed in court to challenge a district plan as an anti-competitive gerrymander. More broadly, the feasibility of creating many more competitive districts indicates that more responsive, more accountable legislatures are within reach.
 
 ---
 
