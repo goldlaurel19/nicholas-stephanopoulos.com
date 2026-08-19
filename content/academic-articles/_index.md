@@ -11,6 +11,16 @@ hidemeta: true
 
 ---
 
+### Intra-Partisan Gerrymandering
+
+*Intra-Partisan Gerrymandering*, 125 Mich. L. Rev. (forthcoming 2027) (with Aaron Kaufman and Christopher Kenny) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7299639)
+
+Partisan gerrymandering is a familiar practice. But intra-partisan gerrymandering—one faction within a party designing districts to handicap another faction within the same party—has barely been noticed by courts or scholars. In jurisdictions dominated by a single party, though, intra-partisan gerrymandering is more impactful than its partisan counterpart. In these places, there's no doubt which party will govern. What's uncertain is which actors within this party will prevail. Intra-partisan gerrymandering matters precisely because it shapes the identity of the ruling intra-party coalition.
+
+In this Article, we first conceptualize intra-partisan gerrymandering. We define the practice, compare it to other forms of abusive redistricting, and explain how it unsettles views of parties as monolithic entities. Next, we provide several examples of intra-partisan gerrymandering. These span the one-party Democratic South, major Democratic cities, and heavily Republican states. We then argue that intra-partisan gerrymandering should be recognized as a distinct legal theory, especially under state constitutions. Its representational harms are analogous to those inflicted by partisan gerrymandering, and it can be regulated through a similar doctrinal framework. Finally, we offer an empirical proof of concept using a recent state senate redistricting as a case study. It's feasible to identify intra-party factions, measure disparities in their treatment, and assess plans' fairness with quantitative metrics and computer-generated maps.
+
+---
+
 ### Districting and Competition
 
 *Districting and Competition*, 175 U. Pa. L. Rev. (forthcoming 2026) (with Richard H. Pildes) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6795960)
