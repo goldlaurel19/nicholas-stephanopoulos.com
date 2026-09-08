@@ -11,6 +11,16 @@ hidemeta: true
 
 ---
 
+### The Death and Rebirth of Vote Dilution
+
+*The Death and Rebirth of Vote Dilution*, 2027 Sup. Ct. Rev. (forthcoming) (with Ruth M. Greenwood) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7434260)
+
+For more than half a century, federal law recognized the concept of racial vote dilution. Members of a racial group experience this condition when voting is racially polarized, the group is proportionally underrepresented, and a lawful alternative policy would likely improve the group's representation. The Supreme Court's 2026 decision in Louisiana v. Callais effectively terminates racial vote dilution as a federal legal claim. The Court achieves this result, above all, by requiring a plaintiff to prove that minority representation could increase without undermining any of a jurisdiction's political goals. Since some political aim is almost always incompatible with greater minority representation, this hurdle is nearly impossible to overcome.
+
+While federal law can no longer directly curb racial vote dilution, however, the fight against this problem is far from over. As a ruling constitutionally rooted in Congress's power to enforce the Fifteenth Amendment, Callais has no bearing on state voting rights acts that are more aggressive than their federal precursor. Nor does Callais impede race-neutral strategies that nevertheless stop much racial vote dilution. Two of these approaches are familiar: prohibitions of partisan gerrymandering and systems of proportional representation. We further propose a cause of action for non-racial vote dilution. This novel claim would work just like its racial analogue—except it would revolve entirely around a non-racial cleavage.
+
+---
+
 ### Intra-Partisan Gerrymandering
 
 *Intra-Partisan Gerrymandering*, 125 Mich. L. Rev. (forthcoming 2027) (with Aaron Kaufman and Christopher Kenny) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7299639)
