@@ -41,7 +41,7 @@ Over roughly the last decade, courts and scholars have seemingly lost interest i
 
 ### Redistricting Without Tradeoffs
 
-*Redistricting Without Tradeoffs*, 125 Colum. L. Rev. (forthcoming 2026) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5900143)
+*Redistricting Without Tradeoffs*, 126 Colum. L. Rev. 671 (2026) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5900143)
 
 The law of redistricting is built on the assumption that tradeoffs among line-drawing criteria are pervasive. This view helps explain crucial elements of partisan gerrymandering, racial vote dilution, and racial gerrymandering doctrine. This Article is the first to rigorously analyze the existence and extent of redistricting tradeoffs. It relies on ensembles of billions of district maps generated randomly by cutting-edge computer algorithms, covering all electoral levels for seven priority states as well as congressional maps for all states with two or more U.S. House districts.
 
