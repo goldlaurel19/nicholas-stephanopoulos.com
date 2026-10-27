@@ -309,6 +309,14 @@ The Article begins by describing and evaluating the experiences of the two count
 
 ---
 
+### Comparative Alignment Theory
+
+*Comparative Alignment Theory*, in Constitutional Values (Shreya Atrey & Rosalind Dixon eds., forthcoming 2027) (book chapter) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7674743)
+
+The democratic value of alignment denotes the congruence (or lack thereof) between governmental outputs and popular preferences. This chapter shows how the constitutional systems of three major countries—Canada, South Africa, and Germany—promote alignment. These systems use different vocabularies to capture the idea of alignment: "effective representation" in Canada, "responsiveness" in South Africa, the "will of the people" becoming the "will of the state" in Germany. Based on these distinct but related formulations, these countries' courts have developed sophisticated jurisprudences of alignment. In the electoral realm, they have struck down misaligning voting restrictions and seat-vote translation rules while upholding aligning regulations of campaign finance. Beyond elections, the courts have intervened to fix distortions of the legislative process and to address issues including secession, corruption, broadcasting, and treatymaking. In sum, this rich body of case law establishes that alignment operating as a constitutional value isn't some fanciful academic notion. Rather, it's a tangible legal reality in constitutional systems around the globe.
+
+---
+
 ### Aligning Constitutional Law
 
 *Aligning Constitutional Law*, 86 Ohio St. L.J. 1173 (2025) (symposium contribution) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5502803)
